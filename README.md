@@ -1,2 +1,10 @@
 # Puzzle-Ai-s-Python
-A collection of the ai's that I coded for the puzzles I enjoy. Mainly used for puzzles on the train.
+A collection of the ai's for the puzzles I enjoy.  
+Mainly used for puzzles on train newspapers.  
+  
+Includes:
+- Gogan
+- Kakuro
+- Nonogram
+- Oh h1
+- Sudoku
